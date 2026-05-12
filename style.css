@@ -135,7 +135,7 @@ body.dark-mode .video-container{
 
 .hero{
   height:100vh;
-  background:url('assets/images/banner.jpg') center/cover;
+  background:url('assets/images/banner.png') center/cover;
   display:flex;
   justify-content:center;
   align-items:center;
